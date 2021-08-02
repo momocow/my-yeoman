@@ -2,7 +2,8 @@
   "name": "my-yoeman",
   "scripts": {
     "release": "lerna run release",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+    "commit": "gitmoji -c"
   },
   "devDependencies": {
     "eslint": "^7.31.0",
