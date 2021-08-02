@@ -1,0 +1,31 @@
+{
+  "name": "my-yoeman",
+  "scripts": {
+    "release": "lerna run release",
+    "semantic-release": "semantic-release"
+  },
+  "devDependencies": {
+    "eslint": "^7.31.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-config-prettier-standard": "^4.0.1",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-promise": "^5.1.0",
+    "gitmoji-cli": "^4.2.0",
+    "husky": "^7.0.1",
+    "lerna": "^4.0.0",
+    "lint-staged": "^11.1.1",
+    "prettier": "2.3.2",
+    "prettier-config-standard": "^4.0.0",
+    "semantic-release": "^17.4.4",
+    "semantic-release-monorepo": "^7.0.5"
+  },
+  "private": true,
+  "version": "0.0.0-development",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/momocow/my-yoeman.git"
+  }
+}
