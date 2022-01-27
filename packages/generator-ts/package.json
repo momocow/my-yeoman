@@ -1,0 +1,15 @@
+{
+  "name": "@momocow/generator-ts",
+  "version": "0.1.0",
+  "description": "MomoCow's private Typescript boilerplates.",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "files": [
+    "generators/"
+  ],
+  "dependencies": {
+    "ramda": "^0.27.1",
+    "yeoman-generator": "^5.4.0"
+  }
+}
