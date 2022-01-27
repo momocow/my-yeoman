@@ -1,8 +1,6 @@
 {
   "name": "my-yoeman",
   "scripts": {
-    "release": "lerna run release",
-    "semantic-release": "semantic-release",
     "commit": "gitmoji -c"
   },
   "devDependencies": {
@@ -16,12 +14,9 @@
     "eslint-plugin-promise": "^5.1.0",
     "gitmoji-cli": "^4.2.0",
     "husky": "^7.0.1",
-    "lerna": "^4.0.0",
     "lint-staged": "^11.1.1",
     "prettier": "2.3.2",
-    "prettier-config-standard": "^4.0.0",
-    "semantic-release": "^17.4.4",
-    "semantic-release-monorepo": "^7.0.5"
+    "prettier-config-standard": "^4.0.0"
   },
   "private": true,
   "version": "0.0.0-development",
