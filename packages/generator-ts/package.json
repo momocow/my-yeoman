@@ -1,6 +1,6 @@
 {
   "name": "@momocow/generator-ts",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "MomoCow's private Typescript boilerplates.",
   "keywords": [
     "yeoman-generator"
